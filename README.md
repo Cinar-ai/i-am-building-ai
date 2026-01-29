@@ -1,1 +1,1 @@
-# i-am-building-ai
+# Project O
